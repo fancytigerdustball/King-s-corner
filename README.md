@@ -1,7 +1,7 @@
 # King's corner
 A fun single-player card game made in python, with pygame
 
-If you don't already have pygame installed you can install it with: `pip install pygame`
+If you don't already have pygame installed you can install by running `pip install pygame` in the terminal.
 
 You start with your deck of standard playing cards on the right of the board.
 

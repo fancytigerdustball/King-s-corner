@@ -9,7 +9,7 @@ The face-up card to the left of the deck is a card you need to put down on the 4
 
 (hover your mouse over the left of the board and the blue outline is where you can place your cards.)
 
-<img src="1.png"/>
+<img src="screenshots/1.png"/>
 
 Click on one of the spaces to set your card there. More card will continue appearing to the left of the deck until you filled the whole area.
 
@@ -21,7 +21,7 @@ If you can't place a king in one of the corners, (because they are full), then y
 
 Once you filled the whole are with cards,
 
-<img src="2.png"/>
+<img src="screenshots/2.png"/>
 
 you will begin removing the cards. Click on two cards that add up to ten (or just one ten) (and aces are ones) to remove them.
 

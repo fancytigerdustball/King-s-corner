@@ -11,7 +11,7 @@ The face-up card to the left of the deck is a card you need to put down on the 4
 
 <img src="screenshots/1.png"/>
 
-Click on one of the spaces to set your card there. More card will continue appearing to the left of the deck until you filled the whole area.
+Click on one of the spaces marked by the blue outline to set your card there. More card will continue appearing to the left of the deck until you filled the whole area.
 
 The cards with Santa 🎅🏻 on them are the kings, Mrs. Clause 🤶🏻 is the queen, the angel-baby-thing 👼🏻 is the jack, and the money bags 💰 are aces.
 

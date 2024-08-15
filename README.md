@@ -19,7 +19,7 @@ Kings can only be placed in the corners, and queens and jacks must be placed on 
 
 If you can't place a king in one of the corners, (because they are full), then you lose. The same thing happens for queens and jacks.
 
-Once you filled the whole are with cards,
+Once you filled the whole area with cards,
 
 <img src="screenshots/2.png"/>
 
